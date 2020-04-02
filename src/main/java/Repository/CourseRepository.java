@@ -1,3 +1,9 @@
+package Repository;
+
+import basicClass.Course;
+import combinationClass.CourseByTeacherName;
+import option.DbUtil;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
